@@ -1,0 +1,27 @@
+{
+  "name": "mern-vid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penkong/mern-vid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penkong/mern-vid/issues"
+  },
+  "homepage": "https://github.com/penkong/mern-vid#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
